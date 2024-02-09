@@ -41,7 +41,8 @@ int main()
 }
 ```
 ## Description
-![DHT22](https://github.com/mbed-ce-libraries-examples/DHT/assets/23274499/e8a91e1c-c52b-4f45-8490-071bc0db6c3d)
+![DHT22](https://github.com/mbed-ce-libraries-examples/DHT/assets/23274499/c486440f-6d92-46cc-b797-30497c0a6011)
+
 
 ### Status:
 This library was tested (02/2024) with Nucleo-F446RE, DHT22 sensor, VS-Code under Win11, GCC 12.3 and MbedCE library
